@@ -1,5 +1,4 @@
 ![👋 Hi, my name is Kirby Capangpangan](https://miro.medium.com/v2/resize:fit:1358/0*FGD6BUzzZs1VJLuY.gif)
-### PHP & Laravel Developer | Vue (2 and 3) Developer | React Developer | Mobile Developer (Android and iOS) | Crypto DApps and Smart Contract Developer
 
 ![Profile views](https://komarev.com/ghpvc/?username=kcgerona&label=Profile%20views&color=0e75b6&style=flat)
 
@@ -12,6 +11,8 @@
     </summary>
   </ul>
 </div>
+
+### PHP & Laravel Developer | Vue (2 and 3) Developer | React Developer | Mobile Developer (Android and iOS) | Crypto DApps and Smart Contract Developer
 
 **<h3 align="left">Connect with me:</h3>** 
 <p align="left"><a href="https://github.com/kcgerona" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.facebook.com/kirby.capangpanga" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://twitter.com/kcgerona" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.instagram.com/kcgerona" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/kirby-capangpangan-71a8a410b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a></p>
