@@ -44,3 +44,16 @@
  **<h3 align="left">Support Me</h3>**
 
 <p align="left"><a href="https://paypal.me/kirbycapangpangan" target="_blank"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" height="36" style="margin-right: 4px"></a> <a href="https://ko-fi.com/kirbycapangpangan" target="_blank"><img src="https://img.shields.io/badge/Ko--fi-343B45?style=for-the-badge&logo=kofi&logoColor=Black" height="36" style="margin-right: 4px"></a></p>
+
+<div style="width: 100%; display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
+  <img src="https://github.com/kcgerona/kcgerona/blob/main/Mesasix Time Tracker.png" alt="Image 1" style="height: 300px; width: 100%; object-fit: cover;">
+  <img src="https://github.com/kcgerona/kcgerona/blob/main/Barranco Gold.png" alt="Image 8" style="height: 300px; width: 100%; object-fit: cover;">
+  <img src="https://github.com/kcgerona/kcgerona/blob/main/Rock My Prompt.png" alt="Image 2" style="height: 300px; width: 100%; object-fit: cover;">
+  <img src="https://github.com/kcgerona/kcgerona/blob/main/Dashcards.png" alt="Image 8" style="height: 300px; width: 100%; object-fit: cover;">
+  <img src="https://github.com/kcgerona/kcgerona/blob/main/BotStaking.png" alt="Image 3" style="height: 300px; width: 100%; object-fit: cover;">
+  <img src="https://github.com/kcgerona/kcgerona/blob/main/DappSniper.png" alt="Image 4" style="height: 300px; width: 100%; object-fit: cover;">
+  <img src="https://github.com/kcgerona/kcgerona/blob/main/DragonHoarde.png" alt="Image 5" style="height: 300px; width: 100%; object-fit: cover;">
+  <img src="https://github.com/kcgerona/kcgerona/blob/main/NFT Estate Haven.png" alt="Image 6" style="height: 300px; width: 100%; object-fit: cover;">
+  <img src="https://github.com/kcgerona/kcgerona/blob/main/NFT-DeFi.png" alt="Image 7" style="height: 300px; width: 100%; object-fit: cover;">
+  <img src="https://github.com/kcgerona/kcgerona/blob/main/RaciFi.png" alt="Image 8" style="height: 300px; width: 100%; object-fit: cover;">
+</div>
